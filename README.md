@@ -1,6 +1,7 @@
 ## Hi there 👋
 My name is Alexey Akhundov. I am an HSE student at the Faculty of Computer Science, Software Engineering  
-I like coding, learning and using algorithms, data structures, almost everything related to CS. They change not only mine but all people's lives!
+I like coding, learning and using algorithms, data structures, almost everything related to CS.  
+They change not only mine but all people's lives!
 
 [![Overall GitHub stats](https://github-readme-stats.vercel.app/api?username=theseems&show_icons=true&hide_title=true&theme=dark)](https://github.com/theseems)
 

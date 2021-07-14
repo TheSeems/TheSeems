@@ -11,10 +11,10 @@ I like coding, learning and using algorithms, data structures, almost everything
 📝 [Habr](https://habr.com/ru/users/theseems)  
 
 ## Currently working on 👨‍💻
-🔣 [AngouriMath](https://github.com/asc-community/AngouriMath) - symbolic algebra library  
-👩‍💻 [GenericTensor](https://github.com/asc-community/GenericTensor) - library for manipulating tensors, matrices  
-🤖 [TomShelbyBot](https://github.com/TomShelbyBot/TomShelbyBot) - telegram SDK wrapper with many convinient features  
-📙 [Crodl](https://github.com/Crodl/Crodl-backend) - crowd learning system (draft)
+🔣 [AngouriMath](https://github.com/asc-community/AngouriMath) - Symbolic algebra library  
+👩‍💻 [GenericTensor](https://github.com/asc-community/GenericTensor) - Library for manipulating tensors, matrices  
+🤖 [TomShelbyBot](https://github.com/TomShelbyBot/TomShelbyBot) - Telegram SDK wrapper with many convinient features  
+📙 [Crodl](https://github.com/Crodl/Crodl-backend) - Crowd learning system (draft)
 
 ### Wakatime 📊  
 [![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@theseems&theme=dark)](https://github.com/theseems)

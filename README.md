@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Alexey Akhundov. I am an HSE student at the Faculty of Computer Science, Software Engineering
+My name is Alexey Akhundov. I am an HSE student at the Faculty of Computer Science, Software Engineering  
 I like coding, learning and using algorithms, data structures, almost everything related to CS. They change not only mine but all people's lives!
 
 ## Links 🔗

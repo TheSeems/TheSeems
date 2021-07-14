@@ -17,4 +17,4 @@ I like coding, learning and using algorithms, data structures, almost everything
 📙 [Crodl](https://github.com/Crodl/Crodl-backend) - crowd learning system (draft)
 
 ### Wakatime 📊  
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@theseems&theme=dark)
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@theseems&theme=dark)](https://github.com/theseems)

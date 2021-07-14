@@ -8,7 +8,7 @@ I like coding, learning and using algorithms, data structures, almost everything
 ## Links 🔗
 🌐 [My Website](https://theseems.ru)  
 📱 [Telegram](https://theseems.ru)  
-📝 [Habr](https://habr.com/theseems)  
+📝 [Habr](https://habr.com/ru/users/theseems)  
 
 ## Currently working on 👨‍💻
 🔣 [AngouriMath](https://github.com/asc-community/AngouriMath) - symbolic algebra library  

@@ -8,7 +8,7 @@ They change not only mine but all people's lives!
 
 ## Links 🔗
 🌐 [My Website](https://theseems.ru)  
-📱 [Telegram](https://theseems.ru)  
+📱 [Telegram](https://theseems.ru/telegram)  
 📝 [Habr](https://habr.com/ru/users/theseems)  
 
 ## Currently working on 👨‍💻

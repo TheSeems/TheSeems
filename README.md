@@ -17,5 +17,3 @@ They change not only mine but all people's lives!
 🤖 [TomShelbyBot](https://github.com/TomShelbyBot/TomShelbyBot) - Telegram SDK wrapper with many convinient features  
 📙 [Crodl](https://github.com/Crodl/Crodl-backend) - Crowd learning system (draft)
 
-### Wakatime 📊  
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@theseems&theme=dark)](https://github.com/theseems)

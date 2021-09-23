@@ -12,7 +12,7 @@ They change not only mine but all people's lives!
 📝 [Habr](https://habr.com/ru/users/theseems)  
 
 ## Currently working on 👨‍💻
-📙 [ClinQ](https://github.com/theseems/ClinQ) - Simple validation mini-framework
+📙 [ClinQ](https://github.com/theseems/ClinQ) - Simple validation mini-framework  
 🔣 [AngouriMath](https://github.com/asc-community/AngouriMath) - Symbolic algebra library  
 👩‍💻 [GenericTensor](https://github.com/asc-community/GenericTensor) - Library for manipulating tensors, matrices  
 🤖 [TomShelbyBot](https://github.com/TomShelbyBot/TomShelbyBot) - Telegram SDK wrapper with many convinient features  

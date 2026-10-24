@@ -1,13 +1,16 @@
 ## Hi there 👋
-My name is Alexey Akhundov. I am an HSE Software Engineering graduate, and I'm currently pursuing my master's degree in Artificial Intelligence at the HSE Faculty of Computer Science.
+I'm Aleksei Akhundov, a software engineer at [Databricks](https://www.databricks.com/company/about-us) working on data platform and backend. I graduated from [HSE](https://cs.hse.ru/en).
 
-As a software engineer, I specialize in backend development and big data tools.
+Outside work: open source, homelabs, and distributed systems.
 
-I enjoy coding, studying and applying algorithms, data structures, designing software architecture — in short, almost everything related to computer science.
-
-[![Overall GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=theseems&show_icons=true&hide_title=true&theme=dark)](https://github.com/theseems)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile/stats-dark.svg">
+  <img alt="GitHub stats" src="profile/stats-light.svg">
+</picture>
 
 ## Links 🔗
-🌐 [My Website](https://theseems.ru)  
-📱 [Telegram](https://theseems.ru/telegram)
+🌐 [Website](https://theseems.io)  
+📄 [CV](https://theseems.io/cv)  
+💼 [LinkedIn](https://www.linkedin.com/in/theseems)  
+📱 [Telegram](https://t.me/theseems)  
+✉️ [me@theseems.io](mailto:me@theseems.io)

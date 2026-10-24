@@ -1,0 +1,43 @@
+name: Stats cards
+
+# Regenerates profile/stats-*.svg from public GitHub data once a day (or via "Run workflow"),
+# so the README doesn't depend on someone else's github-readme-stats instance.
+on:
+  schedule:
+    - cron: "17 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  cards:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+
+      # fail_on_error: a rate limit fails the run instead of committing a "Something went wrong" card
+      - uses: stats-organization/github-readme-stats-action@v2.1.0
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&hide_title=true
+          path: profile/stats-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - uses: stats-organization/github-readme-stats-action@v2.1.0
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&hide_title=true&theme=dark
+          path: profile/stats-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Commit cards
+        run: |
+          git add profile/*.svg
+          git diff --cached --quiet && exit 0
+          git -c user.name="github-actions[bot]" \
+            -c user.email="41898282+github-actions[bot]@users.noreply.github.com" \
+            commit -m "Update stats cards"
+          git push
